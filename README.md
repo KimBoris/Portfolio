@@ -3,7 +3,7 @@
 ##
 <b><1. 이력></b>
 </br>
-- <n>Email : zlas2345@gmail.com
+- <n>Email : zlas2345@gmail.com</br>
 - <n>Phone : +82 10 3267 2442 (010-3267-2442)
 
 
@@ -11,24 +11,24 @@
 
 <b><u><2. 보유기술></u></b>
 </br>
-- Unity
- - Stacks : C#, Cinemachine, Timeline, VirtualCamera
+- Unity</br>
+ - Stacks : C#, Cinemachine, Timeline, VirtualCamera</br>
  - Utility : LitJson, I2Localication
- </br>
+ </br></br>
 - InnoSetup
- </br>
-- Git
- - Git : GitHub
- - Utility : Git Desktop
-</br>
+ </br></br>
+- Git<br>
+ <t>- Git : GitHub</br>
+ <t>- Utility : Git Desktop</br>
+</br></br>
 - 탈레스 : 코드사인
-</br>
+</br></br>
 - AWS : 업로드 및 무효화 처리
-</br>
-- 협업툴
- - 기획, 디자인 : Figma, Jira, Confluence
- - 서버 : Swagger
- - Slack
+</br></br>
+- 협업툴 </br>
+ <t>- 기획, 디자인 : Figma, Jira, Confluence</br>
+ <t>- 서버 : Swagger</br>
+ <t>- Slack</br>
 
 
 
