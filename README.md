@@ -62,7 +62,7 @@
   내부 웹 디자인 1명, 총괄이사 1명)  
   - 유니티 개발자 : UI, Timeline, Cinemachine, VirtualCamera, 게임 내부 기능 구현, 연출
 
-</br></br>
+</br>
 
  2. 개발 환경
   - Unity 2022.3.4f1
