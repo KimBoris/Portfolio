@@ -340,7 +340,7 @@
   - git : https://github.com/KimBoris/Parodiusda_Team
   - 영상 : https://www.youtube.com/watch?v=zu7WX<rssiKM&t=7s
 
-</br></br></br></br></br>
+</br></br>
   
 
 
@@ -372,7 +372,7 @@
  4) 토목설계 
   - CAD를 활용한 토목 설계
 
-</br></br></br></br></br>
+</br></br>
 
 ##
 
