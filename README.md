@@ -2,7 +2,6 @@
 
 ##
 <b><1. 이력></b>
-</br>
 - <n>Email : zlas2345@gmail.com</br>
 - <n>Phone : +82 10 3267 2442 (010-3267-2442)
 
@@ -10,9 +9,7 @@
 ##
 
 <b><u><2. 보유기술></u></b>
-</br>
 - Unity
-
  <t>- Stacks : C#, Cinemachine, Timeline, VirtualCamera</br>
  <t>- Utility : LitJson, I2Localication
  </br></br>
@@ -42,7 +39,6 @@
 
 ##
 <b><u><4. 경력사항 - 2년 4개월></u></b>
- </br>
  - (주) 필굿
     - Unity 클라이언트 프로그래머
     - 2021년 12월 - 2024년 4월 | 2년 5개월
@@ -52,14 +48,11 @@
 
 ##
 <b><u><5. 경력 프로젝트></u></b>
-</br></br>
+</br>
 
 <b>[1] K-PASS 아동용 ( 7~12세 ) - [2022.4 ~ 2023.1]  [출시] </b>
- 
  <t> Android : https://play.google.com/store/apps/details?id=com.feelgood.kpass&hl=en&gl=US</t>
- 
  <t> Window : https://kpass.feel-good.io/download-test</t>
- 
  <t> IOS : https://apps.apple.com/kr/app/k-pass~%EC%BC%80%EC%9D%B4%ED%8C%A8%EC%8A%A4/id6448768648</t>
 
 </br></br>
@@ -68,7 +61,7 @@
   내부 웹 디자인 1명, 총괄이사 1명)  
   - 유니티 개발자 : UI, Timeline, Cinemachine, VirtualCamera, 게임 내부 기능 구현, 연출
 
-  </br></br>
+</br></br>
  2. 개발 환경
   - Unity 2022.3.4f1
   - 언어 : C#
