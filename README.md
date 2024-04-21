@@ -1,7 +1,7 @@
-# "# Portfolio" 
+ "# Portfolio" 
 
 
-###<b><1. 이력></b>
+'###<b><1. 이력></b>'
 - <n>Email : zlas2345@gmail.com
 
 
