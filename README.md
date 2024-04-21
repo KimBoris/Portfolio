@@ -5,7 +5,7 @@
 </br>
 - <n>Email : zlas2345@gmail.com
 
-</br></br>
+</br>
 ##
 <b><u><2. 보유기술></u></b>
 </br>
@@ -27,8 +27,6 @@
  - 기획, 디자인 : Figma, Jira, Confluence
  - 서버 : Swagger
  - Slack
-
-
 
 </br>
 
