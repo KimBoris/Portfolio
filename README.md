@@ -310,7 +310,7 @@
 
 
 
-<b>[7] 파로디우스다[! 팀 프로젝트] 역개발 ( 개발기간 : 3주 )<b>
+<b>[7] 파로디우스다[! 팀 프로젝트] 모작 ( 개발기간 : 3주 )<b>
  </br></br>
 
  1. 개발 인원 및 포지션
@@ -340,7 +340,7 @@
 
  5. 참고자료
   - git : https://github.com/KimBoris/Parodiusda_Team
-  - 영상 : https://www.youtube.com/watch?v=zu7WX<rssiKM&t=7s
+  - 영상 : https://www.youtube.com/watch?v=zu7WXrssiKM
 
 </br></br>
   
