@@ -51,9 +51,9 @@
 </br>
 
 <b>[1] K-PASS 아동용 ( 7~12세 ) - [2022.4 ~ 2023.1]  [출시] </b>
- </br><t> Android : https://play.google.com/store/apps/details?id=com.feelgood.kpass&hl=en&gl=US</t>
- </br><t> Window : https://kpass.feel-good.io/download-test</t>
- </br><t> IOS : https://apps.apple.com/kr/app/k-pass~%EC%BC%80%EC%9D%B4%ED%8C%A8%EC%8A%A4/id6448768648</t>
+ </br><t> Android : https://play.google.com/store/apps/details?id=com.feelgood.kpass&hl=en&gl=US
+ </br><t> Window : https://kpass.feel-good.io/download-test
+ </br><t> IOS : https://apps.apple.com/kr/app/k-pass~%EC%BC%80%EC%9D%B4%ED%8C%A8%EC%8A%A4/id6448768648
 
 </br>
 
