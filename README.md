@@ -1,8 +1,8 @@
 "# Portfolio" 
-1. 이력
+<size=15><b>1. 이력</b></size>
 - Email : zlas2345@gmail.com
 
-2. 보유기술
+<b>-2. 보유기술</b>
 - Unity
  - Stacks : C#, Cinemachine, Timeline, VirtualCamera
  - Utility : LitJson, I2Localication, 
