@@ -1,12 +1,12 @@
 "# Portfolio" 
 "\n"
-<b><u>1. 이력</u></b>
+<b><1. 이력></b>
 - Email : zlas2345@gmail.com
 "\n""\n""\n""\n"
 
 
 
-<b><u>2. 보유기술</u></b>
+<<b><u><2. 보유기술></u></b>>
 - Unity
  - Stacks : C#, Cinemachine, Timeline, VirtualCamera
  - Utility : LitJson, I2Localication
@@ -29,13 +29,13 @@
 
 
 
-<b><u>3. 관심분야<u></b>
+<<b><u><3. 관심분야><u></b>>
  - AI
 
 
 
 
-<b><u>4. 경력사항 - 2년 4개월</u></b>
+<<b><u><4. 경력사항 - 2년 4개월></u></b>>
  - (주) 필굿
     - Unity 클라이언트 프로그래머
     - 2021년 12월 - 2024년 4월 | 2년 5개월
@@ -43,7 +43,7 @@
 
 
 
-<b><u>5. 경력 프로젝트</u></b>
+<<b><u><5. 경력 프로젝트></u></b>>
 
 
 <b>[1] K-PASS 아동용 ( 7~12세 ) - [2022.4 ~ 2023.1]  [출시] </b>
@@ -295,13 +295,13 @@
   
  5. 참고자료
   - git : https://github.com/KimBoris/Parodiusda_Team
-  - 영상 : https://www.youtube.com/watch?v=zu7WXrssiKM&t=7s
+  - 영상 : https://www.youtube.com/watch?v=zu7WX<rssiKM&t=7s
 
   
 
 
 
-<b>6. 기타 경력</b>
+<b><6. 기타 경력></b>>
 
  1) KOBAKO 광고교육원 - 1인 광고 콘텐츠 창작자 양성과정 2기 수료
   - 광고 기획, 촬영, 편집
@@ -326,6 +326,6 @@
 
 
 
-<b>7. 학력</b>
+<b><7. 학력></b>
 
  - 경성대학교 신소재공학과[졸업] - (2011.03 ~ 2017.02)
