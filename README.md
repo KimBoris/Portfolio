@@ -1,12 +1,12 @@
  "# Portfolio" 
 
-
-'###<b><1. 이력></b>'
+##
+<b><1. 이력></b>
 - <n>Email : zlas2345@gmail.com
 
 
-
-###<b><u><2. 보유기술></u></b>
+##
+<b><u><2. 보유기술></u></b>
 - Unity
  - Stacks : C#, Cinemachine, Timeline, VirtualCamera
  - Utility : LitJson, I2Localication
@@ -29,12 +29,13 @@
 
 
 
-###<b><u><3. 관심분야><u></b>
+##
+<b><u><3. 관심분야><u></b>
  - AI
 
 
 
-
+##
 <b><u><4. 경력사항 - 2년 4개월></u></b>
  - (주) 필굿
     - Unity 클라이언트 프로그래머
@@ -42,7 +43,7 @@
 
 
 
-
+##
 <b><u><5. 경력 프로젝트></u></b>
 
 
