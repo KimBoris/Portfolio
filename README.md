@@ -58,61 +58,60 @@
 </br>
 
  1. 개발 인원 및 포지션
-  - 총 8명 (기획 겸 UI/UX 디자이너 1명, 원화가 1명, 3D 모델러 1명, 서버 1명, 백엔드 1명, 유니티 2명
-  내부 웹 디자인 1명, 총괄이사 1명)  
-  - 유니티 개발자 : UI, Timeline, Cinemachine, VirtualCamera, 게임 내부 기능 구현, 연출
+  <t>- 총 8명 (기획 겸 UI/UX 디자이너 1명, 원화가 1명, 3D 모델러 1명, 서버 1명, 백엔드 1명, 유니티 2명 내부 웹 디자인 1명, 총괄이사 1명)  
+  <t>- 유니티 개발자 : UI, Timeline, Cinemachine, VirtualCamera, 게임 내부 기능 구현, 연출
 
 </br>
 
  2. 개발 환경
-  - Unity 2022.3.4f1
-  - 언어 : C#
-  - OS : Window10
+  <t>- Unity 2022.3.4f1
+  <t>- 언어 : C#
+  <t>- OS : Window10
 </br></br>
 
  3. 사용 기술 및 툴
-  - Unity Editor
-  - Unity Cinemachine
-  - Unity Timeline
-  - Google Spread Sheet -> Export Sheet Data
-  - LitJson
-  - I2Localization
-  - 탈레스(코드사인)
-  - InnoSetup
-  - AWS
-  - MySQL 
-  - UniRx
+  <t>- Unity Editor
+  <t>- Unity Cinemachine
+  <t>- Unity Timeline
+  <t>- Google Spread Sheet -> Export Sheet Data
+  <t>- LitJson
+  <t>- I2Localization
+  <t>- 탈레스(코드사인)
+  <t>- InnoSetup
+  <t>- AWS
+  <t>- MySQL 
+  <t>- UniRx
   
-</br></br>
+</br>
 
   4. 개발 내용 설명 (유니티 개발자)
-   - 어플리케이션 시놉시스 및 내부 시스템 기획
-   - 게임 내부 UI/UX 개발 
-   - 플레이어, 맵, 상호 작용자 설계 및 개발
-   - 스토리 라인 및 대사, 자막 설계 및 개발
-   - 게임 데이터를 Google SpreadSheet에서 로딩한 후 I2Localization으로 내부 환경에 따른 번역 및 그림 설계 및 개발
-   - Google SpreadSheet의 데이터를 유니티 내부에 적용시켜 개발 
-   - Unity Cinemachine과 Unity Timeline, Virtual Camera를 활용한 카메라 구도 및 캐릭터 이동, 대사 연출, 타임라인 적용
-   - InnoSetup을 활용해서 SetupFile생성
-   - Window - 탈레스를 사용하여 코드사인 ( exe, setup.exe )
-   - AAB추출 - GooglePlayConsole 업로드
-   - LitJson을 활용해 서버에 데이터 전송
-   - API를 통한 서버 통신
-   - AWS S3 업로드, 무효화 처리
-   - 서버에서 영상 로딩
-   - 미니게임 제작
-   - Unity Web버전 개발(진행 중단)
-   - 게임 내부 디자인 변경 및 재세팅
-   - 실행시 런처를 통해 어플의 데이터를 확인 후 업데이트
-   - Google LogCat 활용 디버깅
-   - 유지 보수
+   <t>- 어플리케이션 시놉시스 및 내부 시스템 기획
+   <t>- 게임 내부 UI/UX 개발 
+   <t>- 플레이어, 맵, 상호 작용자 설계 및 개발
+   <t>- 스토리 라인 및 대사, 자막 설계 및 개발
+   <t>- 게임 데이터를 Google SpreadSheet에서 로딩한 후 I2Localization으로 내부 환경에 따른 번역 및 그림 설계 및 개발
+   <t>- Google SpreadSheet의 데이터를 유니티 내부에 적용시켜 개발 
+   <t>- Unity Cinemachine과 Unity Timeline, Virtual Camera를 활용한 카메라 구도 및 캐릭터 이동, 대사 연출, 타임라인 적용
+   <t>- InnoSetup을 활용해서 SetupFile생성
+   <t>- Window - 탈레스를 사용하여 코드사인 ( exe, setup.exe )
+   <t>- AAB추출 - GooglePlayConsole 업로드
+   <t>- LitJson을 활용해 서버에 데이터 전송
+   <t>- API를 통한 서버 통신
+   <t>- AWS S3 업로드, 무효화 처리
+   <t>- 서버에서 영상 로딩
+   <t>- 미니게임 제작
+   <t>- Unity Web버전 개발(진행 중단)
+   <t>- 게임 내부 디자인 변경 및 재세팅
+   <t>- 실행시 런처를 통해 어플의 데이터를 확인 후 업데이트
+   <t>- Google LogCat 활용 디버깅
+   <t>- 유지 보수
 </br></br>
 
  5. 개발 성과
-  - IOS, Window, Android 출시 성공 [2023.1]
-  - 영어 번역판 업데이트
-  - 5개월간 1000회 이상 다운로드 (유료 컨텐츠)
-  - 아제르바이잔 계약 ( 글로벌화 )
+  <t>- IOS, Window, Android 출시 성공 [2023.1]
+  <t>- 영어 번역판 업데이트
+  <t>- 5개월간 1000회 이상 다운로드 (유료 컨텐츠)
+  <t>- 아제르바이잔 계약 ( 글로벌화 )
 </br></br></br></br></br>
 
 
@@ -122,26 +121,26 @@
 </br></br>
 
   1. 개발 인원 및 포지션 
-   - 총 6명 - (UX/UI 디자이너 1명, 기획자 1명, 백엔드 1명, 서버 1명, 유니티 개발자 2명)
-   - 본인 : 유니티 개발자 - UI, Timeline, Cinemachine, VirtualCamera, 게임 내부 기능 구현, 연출
+   <t>- 총 6명 - (UX/UI 디자이너 1명, 기획자 1명, 백엔드 1명, 서버 1명, 유니티 개발자 2명)
+   <t>- 본인 : 유니티 개발자 - UI, Timeline, Cinemachine, VirtualCamera, 게임 내부 기능 구현, 연출
 
-</br></br>
+</br>
 
   2. 개발환경
-   - Unity 2022.3.4f1
-   - 언어 : C#
-   - OS : Window 10
+   <t>- Unity 2022.3.4f1
+   <t>- 언어 : C#
+   <t>- OS : Window 10
 </br></br>
 
   3. 사용 기술 및 툴
-   - 아동용과 동일
+   <t>- 아동용과 동일
 </br></br>
 
   4. 개발 내용 설명
-   - 아동용 K-PASS에서 최소한의 연출을 제외한 버전 개발
-   - 아동용 K-PASS에 적용되었던 코드 모듈화, MVC 패턴 리팩토링
-   - 다중 타입의 문제 적용
-   - 다중 타입의 문제 Google SpreadSheet 데이터 세팅
+   <t>- 아동용 K-PASS에서 최소한의 연출을 제외한 버전 개발
+   <t>- 아동용 K-PASS에 적용되었던 코드 모듈화, MVC 패턴 리팩토링
+   <t>- 다중 타입의 문제 적용
+   <t>- 다중 타입의 문제 Google SpreadSheet 데이터 세팅
 </br></br></br></br></br>
 
 
