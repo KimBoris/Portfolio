@@ -1,12 +1,12 @@
-"# Portfolio" 
+# h1 "# Portfolio" 
 
 
-<b><1. 이력></b>
+# h3<b><1. 이력></b>
 - <n>Email : zlas2345@gmail.com
 
 
 
-<<b><u><2. 보유기술></u></b>>
+<b><u><2. 보유기술></u></b>
 - Unity
  - Stacks : C#, Cinemachine, Timeline, VirtualCamera
  - Utility : LitJson, I2Localication
@@ -29,13 +29,13 @@
 
 
 
-<<b><u><3. 관심분야><u></b>>
+<b><u><3. 관심분야><u></b>
  - AI
 
 
 
 
-<<b><u><4. 경력사항 - 2년 4개월></u></b>>
+<b><u><4. 경력사항 - 2년 4개월></u></b>
  - (주) 필굿
     - Unity 클라이언트 프로그래머
     - 2021년 12월 - 2024년 4월 | 2년 5개월
@@ -43,7 +43,7 @@
 
 
 
-<<b><u><5. 경력 프로젝트></u></b>>
+<b><u><5. 경력 프로젝트></u></b>
 
 
 <b>[1] K-PASS 아동용 ( 7~12세 ) - [2022.4 ~ 2023.1]  [출시] </b>
