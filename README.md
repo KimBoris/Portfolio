@@ -1,8 +1,8 @@
 "# Portfolio" 
-"\n"
+
+
 <b><1. 이력></b>
-- Email : zlas2345@gmail.com
-"\n""\n""\n""\n"
+- <n>Email : zlas2345@gmail.com
 
 
 
@@ -303,7 +303,7 @@
 
 <b><6. 기타 경력></b>>
 
- 1) KOBAKO 광고교육원 - 1인 광고 콘텐츠 창작자 양성과정 2기 수료
+ 1) KOBAKO 광고교육원 - 1 인 광고 콘텐츠 창작자 양성과정 2기 수료
   - 광고 기획, 촬영, 편집
    - 영상 1 : https://www.youtube.com/watch?v=KWeac6zKyJU
    - 영상 2 : https://www.youtube.com/watch?v=PJCs
