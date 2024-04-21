@@ -11,12 +11,12 @@
 
 <b><u><2. 보유기술></u></b>
 </br>
-- Unity</br>
+- Unity
 
- - Stacks : C#, Cinemachine, Timeline, VirtualCamera</br>
-
- - Utility : LitJson, I2Localication
+ <t>- Stacks : C#, Cinemachine, Timeline, VirtualCamera</br>
+ <t>- Utility : LitJson, I2Localication
  </br></br>
+
 - InnoSetup
  </br></br>
 - Git<br>
