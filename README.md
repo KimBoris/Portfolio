@@ -1,11 +1,11 @@
 "# Portfolio" 
-<size=15><b>1. 이력</b></size>
+<b>1. 이력</b>
 - Email : zlas2345@gmail.com
 
-<b>-2. 보유기술</b>
+<b>2. 보유기술</b>
 - Unity
  - Stacks : C#, Cinemachine, Timeline, VirtualCamera
- - Utility : LitJson, I2Localication, 
+ - Utility : LitJson, I2Localication
  
 - InnoSetup
  
@@ -22,20 +22,23 @@
  - 서버 : Swagger
  - Slack
 
-3. 관심분야
+<b>3. 관심분야</b>
  - AI
  
-4. 경력사항 - 2년 4개월
+<b>4. 경력사항 - 2년 4개월</b>
  - (주) 필굿
     - Unity 클라이언트 프로그래머
     - 2021년 12월 - 2024년 4월 | 2년 5개월
 
-5. 경력 프로젝트
+<b>5. 경력 프로젝트</b>
 
-[1] [출시] K-PASS 아동용 ( 7~12세 ) - [2022.4 ~ 2023.1]
- Android : https://play.google.com/store/apps/details?id=com.feelgood.kpass&hl=en&gl=US
- Window : https://kpass.feel-good.io/download-test
- IOS : https://apps.apple.com/kr/app/k-pass~%EC%BC%80%EC%9D%B4%ED%8C%A8%EC%8A%A4/id6448768648
+ <b>[1] K-PASS 아동용 ( 7~12세 ) - [2022.4 ~ 2023.1]  [출시] </b>
+ 
+  Android : https://play.google.com/store/apps/details?id=com.feelgood.kpass&hl=en&gl=US
+ 
+  Window : https://kpass.feel-good.io/download-test
+ 
+  IOS : https://apps.apple.com/kr/app/k-pass~%EC%BC%80%EC%9D%B4%ED%8C%A8%EC%8A%A4/id6448768648
 
  1. 개발 인원 및 포지션
   - 총 8명 (기획 겸 UI/UX 디자이너 1명, 원화가 1명, 3D 모델러 1명, 서버 1명, 백엔드 1명, 유니티 2명
@@ -60,7 +63,7 @@
   - UniRx
   
 
-4. 개발 내용 설명
+4. 개발 내용 설명 (유니티 개발자)
  - 어플리케이션 시놉시스 및 내부 시스템 기획
  - 게임 내부 UI/UX 개발 
  - 플레이어, 맵, 상호 작용자 설계 및 개발
@@ -89,7 +92,11 @@
  - 5개월간 1000회 이상 다운로드 (유료 컨텐츠)
  - 아제르바이잔 계약 ( 글로벌화 )
 
-[1-1] K-PASS 성인용  [ 2024.03 ~ 진행중 ]
+
+
+
+
+<b>[1-1] K-PASS 성인용  [ 2024.03 ~ 진행중 ]</b>
  1. 개발 인원 및 포지션 
   - 총 6명 - (UX/UI 디자이너 1명, 기획자 1명, 백엔드 1명, 서버 1명, 유니티 개발자 2명)
  2. 개발환경
@@ -109,7 +116,9 @@
 
 
 
-[개발중단] K-PASS 아동용 1차 ( 7~12세 )
+
+
+<b>[2] K-PASS 아동용 1차 ( 7~12세 ) [개발중단] </b>
  1. 개발 인원 및 포지션
   - 총 6명 ( 3D 모델러 1명, 유니티 개발자 2명, 서버 1명, 백엔드 1명, UX/UI 디자이너 1명)
   - 유니티 개발자 : UI, Timeline, Cinemachine, VirtualCamera, 게임 내부 기능 구현, 연출
@@ -134,7 +143,9 @@
 
 
 
-[개발중단] K-PASS 아동용 2차 ( 7~12세 )
+
+<b>[3] K-PASS 아동용 2차 ( 7~12세 ) [개발중단]</b>
+
  1. 개발 인원 및 포지션
   - 총 7명 (원화가 1명, 3D 모델러 1명, UI/UX 디자이너 1명, 유니티 개발자 2명, 서버 1명, 백엔드 1명)
   - 유니티 개발자 : UI, Timeline, Cinemachine, VirtualCamera, 게임 내부 기능 구현, 연출
@@ -158,7 +169,10 @@
 
 
 
-[2] Shootpang [개인 프로젝트] ( 개발 기간 : 3주 )
+
+
+<b>[4] Shootpang [개인 프로젝트] ( 개발 기간 : 3주 )</b>
+
  1. 개발 인원 및 포지션
   - 1명 ( 유니티 개발자 1명 )
   - 유니티 개발자 : 프로젝트 기획, 프로젝트 개발 및 마무리
@@ -186,7 +200,9 @@
 
 
 
-[3] Shoot for Run [개인 프로젝트] (제작기간 4주)
+
+
+<b>[5] Shoot for Run [개인 프로젝트] (제작기간 4주)</b>
 
  1. 개발 인원 및 포지션
   - 1명 ( 유니티 개발자 1명 )
@@ -209,7 +225,10 @@
   - git : https://github.com/KimBoris/RunforKick
 
 
-[4] Plant B! [개인 프로젝트] (개발기간 7주)
+
+
+
+<b>[6] Plant B! [개인 프로젝트] (개발기간 7주)</b>
  1. 개발 인원 및 포지션
  - 1명 (유니티 개발자 1명)
  - 유니티 개발자 : 프로젝트 기획, 프로젝트 개발
@@ -235,10 +254,11 @@
 
 
 
-[5] 파로디우스다[! 팀 프로젝트] 역개발 ( 개발기간 : 3주 )
+
+<b>[7] 파로디우스다[! 팀 프로젝트] 역개발 ( 개발기간 : 3주 )<b>
  1. 개발 인원 및 포지션
  - 3명 (유니티 개발자 3명)
- - 유니티 개발자 : 보스 패턴 분석 및 개발, 게임 내부 시스템 개발, 몬스터 패턴 분석 및 개발, 프로젝트 완성
+ - 본인 : 유니티 개발자 - 보스 패턴 분석 및 개발, 게임 내부 시스템 개발, 몬스터 패턴 분석 및 개발, 프로젝트 완성
 
  2. 개발 환경
   - Unity 2020.3.14f
@@ -263,7 +283,10 @@
 
   
 
-6. 기타 경력
+
+
+<b>6. 기타 경력</b>
+
  1) KOBAKO 광고교육원 - 1인 광고 콘텐츠 창작자 양성과정 2기 수료
  - 광고 기획, 촬영, 편집
   - 영상 1 : https://www.youtube.com/watch?v=KWeac6zKyJU
@@ -282,7 +305,11 @@
 
  4) 토목설계 
   - CAD를 활용한 토목 설계
- 
 
-7. 학력
+
+
+
+
+<b>7. 학력</b>
+
  - 경성대학교 신소재공학과[졸업] - (2011.03 ~ 2017.02)
