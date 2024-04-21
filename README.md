@@ -6,7 +6,9 @@
 - <n>Email : zlas2345@gmail.com
 
 </br>
+
 ##
+
 <b><u><2. 보유기술></u></b>
 </br>
 - Unity
